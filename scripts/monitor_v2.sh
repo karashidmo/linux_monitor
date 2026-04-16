@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LOG_FILE="monitor.log"
+LOG_FILE="../logs/monitor.log"
 DATE=$(date)
 
 
