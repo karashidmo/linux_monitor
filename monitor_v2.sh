@@ -1,31 +1,27 @@
 #!/bin/bash
 
-CPU_LOAD=$(top -b -n1 | grep "Cpu(s)" | awk '{print $2 + $4}')
-
-echo "CPU_Load: $CPU_LOAD"
-
-if(($(echo "$CPU_LOAD > 80" | bc -1) )); then
-	echo " ALERT: CPU HIGH"
-else
-	echo "OK: CPU normal"
-fi
-
-
-HOSTNAME=$(hostname)
+LOG_FILE="monitor.log"
 DATE=$(date)
 
 
+echo "==============" >> $LOG_FILE
+echo "date: $DATE" >> $LOG_FILE
 echo "=============="
-echo "Host: $HSOTNAME"
-echo "date: $DATE"
-echo "=============="
 
-echo"CPU INFO"
-top -b -n1 | head -5
+echo "CPU INFO" >> $LOG_FILE
 
-echo "MEMORY INFO"
-free -h
+top -b -n1 | head -5 >> $LOG_FILE
 
-echo"DISK INFO"
-df -h
+echo "MEMORY INFO" >> $LOG_FILE
+free -h >> $LOG_FILE
 
+echo "DISK INFO"  >> $LOG_FILE
+df -h  >> $LOG_FILE
+
+echo "log savec in  $LOG_FILE"
+
+
+CPU=$(top -b -n1 | grep "Cpu(s)" | awk '{print $2 + $4}')
+if (($(echo "CPU > 80" | bc -l) )); then
+	echo "ALERT CPU HIGH : $CPU" >> $LOG_FILE
+	fi

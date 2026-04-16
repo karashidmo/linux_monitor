@@ -1,0 +1,288 @@
+==============
+date: Thu Apr 16 21:20:01 CEST 2026
+top - 21:20:02 up  2:42,  2 users,  load average: 0.00, 0.00, 0.00
+Tasks:  31 total,   1 running,  30 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.8 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   6855.2 total,   6200.5 free,    543.5 used,    273.2 buff/cache     
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6311.7 avail Mem 
+MEMORY INFO
+               total        used        free      shared  buff/cache   available
+Mem:           6.7Gi       542Mi       6.1Gi       3.6Mi       273Mi       6.2Gi
+Swap:          2.0Gi          0B       2.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.4G     0  3.4G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.4G  4.0K  3.4G   1% /mnt/wsl
+drivers         475G  303G  172G  64% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.8G  954G   1% /
+none            3.4G   84K  3.4G   1% /mnt/wslg
+none            3.4G     0  3.4G   0% /usr/lib/wsl/lib
+rootfs          3.4G  2.7M  3.4G   1% /init
+none            3.4G  552K  3.4G   1% /run
+none            3.4G     0  3.4G   0% /run/lock
+none            3.4G     0  3.4G   0% /run/shm
+none            3.4G   96K  3.4G   1% /mnt/wslg/versions.txt
+none            3.4G   96K  3.4G   1% /mnt/wslg/doc
+C:\             475G  303G  172G  64% /mnt/c
+tmpfs           686M   20K  686M   1% /run/user/1000
+tmpfs           686M   20K  686M   1% /run/user/0
+==============
+date: Thu Apr 16 21:21:12 CEST 2026
+top - 21:21:13 up  2:43,  2 users,  load average: 0.00, 0.00, 0.00
+Tasks:  31 total,   1 running,  30 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  1.6 sy,  0.0 ni, 98.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   6855.2 total,   6201.2 free,    542.6 used,    273.3 buff/cache     
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6312.6 avail Mem 
+MEMORY INFO
+               total        used        free      shared  buff/cache   available
+Mem:           6.7Gi       542Mi       6.1Gi       3.6Mi       273Mi       6.2Gi
+Swap:          2.0Gi          0B       2.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.4G     0  3.4G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.4G  4.0K  3.4G   1% /mnt/wsl
+drivers         475G  303G  172G  64% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.8G  954G   1% /
+none            3.4G   84K  3.4G   1% /mnt/wslg
+none            3.4G     0  3.4G   0% /usr/lib/wsl/lib
+rootfs          3.4G  2.7M  3.4G   1% /init
+none            3.4G  552K  3.4G   1% /run
+none            3.4G     0  3.4G   0% /run/lock
+none            3.4G     0  3.4G   0% /run/shm
+none            3.4G   96K  3.4G   1% /mnt/wslg/versions.txt
+none            3.4G   96K  3.4G   1% /mnt/wslg/doc
+C:\             475G  303G  172G  64% /mnt/c
+tmpfs           686M   20K  686M   1% /run/user/1000
+tmpfs           686M   20K  686M   1% /run/user/0
+==============
+date: Thu Apr 16 21:23:28 CEST 2026
+CPU INFO
+top - 21:23:28 up  2:45,  2 users,  load average: 0.16, 0.03, 0.01
+Tasks:  31 total,   1 running,  30 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.8 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   6855.2 total,   6203.0 free,    540.7 used,    273.4 buff/cache     
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6314.5 avail Mem 
+MEMORY INFO
+               total        used        free      shared  buff/cache   available
+Mem:           6.7Gi       539Mi       6.1Gi       3.6Mi       273Mi       6.2Gi
+Swap:          2.0Gi          0B       2.0Gi
+DISK INFO
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.4G     0  3.4G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.4G  4.0K  3.4G   1% /mnt/wsl
+drivers         475G  303G  172G  64% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.8G  954G   1% /
+none            3.4G   84K  3.4G   1% /mnt/wslg
+none            3.4G     0  3.4G   0% /usr/lib/wsl/lib
+rootfs          3.4G  2.7M  3.4G   1% /init
+none            3.4G  552K  3.4G   1% /run
+none            3.4G     0  3.4G   0% /run/lock
+none            3.4G     0  3.4G   0% /run/shm
+none            3.4G   96K  3.4G   1% /mnt/wslg/versions.txt
+none            3.4G   96K  3.4G   1% /mnt/wslg/doc
+C:\             475G  303G  172G  64% /mnt/c
+tmpfs           686M   20K  686M   1% /run/user/1000
+tmpfs           686M   20K  686M   1% /run/user/0
+==============
+date: Thu Apr 16 21:24:48 CEST 2026
+CPU INFO
+top - 21:24:49 up  2:46,  2 users,  load average: 0.04, 0.02, 0.00
+Tasks:  31 total,   1 running,  30 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.8 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   6855.2 total,   6201.7 free,    542.0 used,    273.4 buff/cache     
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6313.2 avail Mem 
+MEMORY INFO
+               total        used        free      shared  buff/cache   available
+Mem:           6.7Gi       541Mi       6.1Gi       3.6Mi       273Mi       6.2Gi
+Swap:          2.0Gi          0B       2.0Gi
+DISK INFO
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.4G     0  3.4G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.4G  4.0K  3.4G   1% /mnt/wsl
+drivers         475G  303G  172G  64% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.8G  954G   1% /
+none            3.4G   84K  3.4G   1% /mnt/wslg
+none            3.4G     0  3.4G   0% /usr/lib/wsl/lib
+rootfs          3.4G  2.7M  3.4G   1% /init
+none            3.4G  552K  3.4G   1% /run
+none            3.4G     0  3.4G   0% /run/lock
+none            3.4G     0  3.4G   0% /run/shm
+none            3.4G   96K  3.4G   1% /mnt/wslg/versions.txt
+none            3.4G   96K  3.4G   1% /mnt/wslg/doc
+C:\             475G  303G  172G  64% /mnt/c
+tmpfs           686M   20K  686M   1% /run/user/1000
+tmpfs           686M   20K  686M   1% /run/user/0
+==============
+date: Thu Apr 16 21:29:36 CEST 2026
+CPU INFO
+top - 21:29:36 up  2:50,  2 users,  load average: 0.00, 0.00, 0.00
+Tasks:  30 total,   1 running,  29 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.8 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   6855.2 total,   6204.3 free,    539.3 used,    273.6 buff/cache     
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6315.9 avail Mem 
+MEMORY INFO
+               total        used        free      shared  buff/cache   available
+Mem:           6.7Gi       538Mi       6.1Gi       3.6Mi       273Mi       6.2Gi
+Swap:          2.0Gi          0B       2.0Gi
+DISK INFO
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.4G     0  3.4G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.4G  4.0K  3.4G   1% /mnt/wsl
+drivers         475G  303G  172G  64% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.8G  954G   1% /
+none            3.4G   84K  3.4G   1% /mnt/wslg
+none            3.4G     0  3.4G   0% /usr/lib/wsl/lib
+rootfs          3.4G  2.7M  3.4G   1% /init
+none            3.4G  548K  3.4G   1% /run
+none            3.4G     0  3.4G   0% /run/lock
+none            3.4G     0  3.4G   0% /run/shm
+none            3.4G   96K  3.4G   1% /mnt/wslg/versions.txt
+none            3.4G   96K  3.4G   1% /mnt/wslg/doc
+C:\             475G  303G  172G  64% /mnt/c
+tmpfs           686M   20K  686M   1% /run/user/1000
+tmpfs           686M   20K  686M   1% /run/user/0
+==============
+date: Thu Apr 16 21:31:31 CEST 2026
+CPU INFO
+top - 21:31:31 up  2:52,  2 users,  load average: 0.00, 0.00, 0.00
+Tasks:  30 total,   1 running,  29 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.8 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   6855.2 total,   6204.1 free,    539.4 used,    273.7 buff/cache     
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6315.8 avail Mem 
+MEMORY INFO
+               total        used        free      shared  buff/cache   available
+Mem:           6.7Gi       538Mi       6.1Gi       3.6Mi       273Mi       6.2Gi
+Swap:          2.0Gi          0B       2.0Gi
+DISK INFO
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.4G     0  3.4G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.4G  4.0K  3.4G   1% /mnt/wsl
+drivers         475G  303G  172G  64% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.8G  954G   1% /
+none            3.4G   84K  3.4G   1% /mnt/wslg
+none            3.4G     0  3.4G   0% /usr/lib/wsl/lib
+rootfs          3.4G  2.7M  3.4G   1% /init
+none            3.4G  548K  3.4G   1% /run
+none            3.4G     0  3.4G   0% /run/lock
+none            3.4G     0  3.4G   0% /run/shm
+none            3.4G   96K  3.4G   1% /mnt/wslg/versions.txt
+none            3.4G   96K  3.4G   1% /mnt/wslg/doc
+C:\             475G  303G  172G  64% /mnt/c
+tmpfs           686M   20K  686M   1% /run/user/1000
+tmpfs           686M   20K  686M   1% /run/user/0
+==============
+date: Thu Apr 16 21:35:00 CEST 2026
+CPU INFO
+top - 21:35:00 up  2:55,  2 users,  load average: 0.00, 0.00, 0.00
+Tasks:  30 total,   1 running,  29 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.8 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   6855.2 total,   6203.0 free,    540.3 used,    273.8 buff/cache     
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6314.9 avail Mem 
+MEMORY INFO
+               total        used        free      shared  buff/cache   available
+Mem:           6.7Gi       538Mi       6.1Gi       3.6Mi       273Mi       6.2Gi
+Swap:          2.0Gi          0B       2.0Gi
+DISK INFO
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.4G     0  3.4G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.4G  4.0K  3.4G   1% /mnt/wsl
+drivers         475G  303G  172G  64% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.8G  954G   1% /
+none            3.4G   84K  3.4G   1% /mnt/wslg
+none            3.4G     0  3.4G   0% /usr/lib/wsl/lib
+rootfs          3.4G  2.7M  3.4G   1% /init
+none            3.4G  548K  3.4G   1% /run
+none            3.4G     0  3.4G   0% /run/lock
+none            3.4G     0  3.4G   0% /run/shm
+none            3.4G   96K  3.4G   1% /mnt/wslg/versions.txt
+none            3.4G   96K  3.4G   1% /mnt/wslg/doc
+C:\             475G  303G  172G  64% /mnt/c
+tmpfs           686M   20K  686M   1% /run/user/1000
+tmpfs           686M   20K  686M   1% /run/user/0
+==============
+date: Thu Apr 16 21:39:43 CEST 2026
+CPU INFO
+top - 21:39:43 up  3:00,  2 users,  load average: 0.00, 0.00, 0.00
+Tasks:  30 total,   1 running,  29 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.8 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   6855.2 total,   6205.0 free,    538.2 used,    274.0 buff/cache     
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6317.0 avail Mem 
+MEMORY INFO
+               total        used        free      shared  buff/cache   available
+Mem:           6.7Gi       538Mi       6.1Gi       3.6Mi       273Mi       6.2Gi
+Swap:          2.0Gi          0B       2.0Gi
+DISK INFO
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.4G     0  3.4G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.4G  4.0K  3.4G   1% /mnt/wsl
+drivers         475G  303G  172G  64% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.8G  954G   1% /
+none            3.4G   84K  3.4G   1% /mnt/wslg
+none            3.4G     0  3.4G   0% /usr/lib/wsl/lib
+rootfs          3.4G  2.7M  3.4G   1% /init
+none            3.4G  548K  3.4G   1% /run
+none            3.4G     0  3.4G   0% /run/lock
+none            3.4G     0  3.4G   0% /run/shm
+none            3.4G   96K  3.4G   1% /mnt/wslg/versions.txt
+none            3.4G   96K  3.4G   1% /mnt/wslg/doc
+C:\             475G  303G  172G  64% /mnt/c
+tmpfs           686M   20K  686M   1% /run/user/1000
+tmpfs           686M   20K  686M   1% /run/user/0
+==============
+date: Thu Apr 16 21:40:23 CEST 2026
+CPU INFO
+top - 21:40:23 up  3:00,  2 users,  load average: 0.07, 0.02, 0.00
+Tasks:  30 total,   1 running,  29 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.8 sy,  0.0 ni, 99.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   6855.2 total,   6203.1 free,    540.0 used,    274.0 buff/cache     
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6315.2 avail Mem 
+MEMORY INFO
+               total        used        free      shared  buff/cache   available
+Mem:           6.7Gi       538Mi       6.1Gi       3.6Mi       274Mi       6.2Gi
+Swap:          2.0Gi          0B       2.0Gi
+DISK INFO
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.4G     0  3.4G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.4G  4.0K  3.4G   1% /mnt/wsl
+drivers         475G  303G  172G  64% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.8G  954G   1% /
+none            3.4G   84K  3.4G   1% /mnt/wslg
+none            3.4G     0  3.4G   0% /usr/lib/wsl/lib
+rootfs          3.4G  2.7M  3.4G   1% /init
+none            3.4G  548K  3.4G   1% /run
+none            3.4G     0  3.4G   0% /run/lock
+none            3.4G     0  3.4G   0% /run/shm
+none            3.4G   96K  3.4G   1% /mnt/wslg/versions.txt
+none            3.4G   96K  3.4G   1% /mnt/wslg/doc
+C:\             475G  303G  172G  64% /mnt/c
+tmpfs           686M   20K  686M   1% /run/user/1000
+tmpfs           686M   20K  686M   1% /run/user/0
+ALERT CPU HIGH : 
+==============
+date: Thu Apr 16 21:46:04 CEST 2026
+CPU INFO
+top - 21:46:04 up  3:05,  2 users,  load average: 0.06, 0.02, 0.00
+Tasks:  30 total,   1 running,  29 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   6855.2 total,   6204.3 free,    538.7 used,    274.2 buff/cache     
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6316.5 avail Mem 
+MEMORY INFO
+               total        used        free      shared  buff/cache   available
+Mem:           6.7Gi       538Mi       6.1Gi       3.6Mi       274Mi       6.2Gi
+Swap:          2.0Gi          0B       2.0Gi
+DISK INFO
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.4G     0  3.4G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.4G  4.0K  3.4G   1% /mnt/wsl
+drivers         475G  303G  172G  64% /usr/lib/wsl/drivers
+/dev/sdd       1007G  1.8G  954G   1% /
+none            3.4G   84K  3.4G   1% /mnt/wslg
+none            3.4G     0  3.4G   0% /usr/lib/wsl/lib
+rootfs          3.4G  2.7M  3.4G   1% /init
+none            3.4G  548K  3.4G   1% /run
+none            3.4G     0  3.4G   0% /run/lock
+none            3.4G     0  3.4G   0% /run/shm
+none            3.4G   96K  3.4G   1% /mnt/wslg/versions.txt
+none            3.4G   96K  3.4G   1% /mnt/wslg/doc
+C:\             475G  303G  172G  64% /mnt/c
+tmpfs           686M   20K  686M   1% /run/user/1000
+tmpfs           686M   20K  686M   1% /run/user/0
+ALERT CPU HIGH : 0.8
