@@ -1,29 +1,22 @@
-</> Markdown
-# Linux Monitoring Tool
+# Linux Monitor - Dockerized Monitoring Tool
 
-Simple Bash script to monitor system resources.
-
-## Project Structure
-- scripts/ -> monitoring scripts
-- logs/ -> output logs
-
+Simple Linux monitoring tool containerized with Docker.
 
 ## Features
-- System monitoring 
-- CPU alert
-- Memory usage
-- Disk usage
-- logging system
 
+- CPU monitoring
+- RAM monitoring
+- Disk usage monitoring
+- Log generation
+- Docker container support
 
-## Usage
-'''bash
-chmod +x monitor_v2.sh
-./monitor_v2.sh
+## Technologies
 
+- Linux
+- Bash
+- Docker
 
+## Build
 
-
----
-
-#
+```bash
+docker build -t linux-monitor .

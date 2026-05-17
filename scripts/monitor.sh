@@ -1,6 +1,7 @@
 #!/bin/bash
 
-LOG_FILE="../logs/monitor.log"
+#LOG_FILE="../logs/monitor.log"
+LOG_FILE="/app/logs/monitor.log"
 DATE=$(date)
 
 
@@ -23,5 +24,5 @@ echo "log savec in  $LOG_FILE"
 
 CPU=$(top -b -n1 | grep "Cpu(s)" | awk '{print $2 + $4}')
 if (($(echo "CPU > 80" | bc -l) )); then
-	echo "ALERT CPU HIGH : $CPU" >> $LOG_FILE
-	fi
+        echo "ALERT CPU HIGH : $CPU" >> $LOG_FILE
+        fi
